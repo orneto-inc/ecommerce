@@ -1,0 +1,13 @@
+/* Imports */
+@import "./_util.css";
+
+
+/* For SM Device */
+@media (max-width: 720px){
+
+    /* Login Page */
+    .login-container{
+        padding: 0 50px;
+    }
+
+}
